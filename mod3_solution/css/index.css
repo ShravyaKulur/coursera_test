@@ -1,0 +1,47 @@
+.navbar{
+  background-color:black;
+  height:100%;
+
+}
+.navbar-brand h1{
+  color: white;
+  margin-top: -5px;
+  font-size: 30px;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #ffffff;
+  color:white;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: 5px;
+  border-color: white;
+}
+
+#nav-list a {
+  background-color: white;
+  color: #951C49;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+
+.body{
+  height:100%;
+  margin-top: -20px;
+}
+
+.menu{
+  font-size: 40px;
+  padding:30px;
+  font-weight: bolder;
+}
+
+.menu-items{
+  margin:50px;
+  padding: 30px;
+  background-color:#951C49;
+  color: white;
+  font-weight: bold;
+}
